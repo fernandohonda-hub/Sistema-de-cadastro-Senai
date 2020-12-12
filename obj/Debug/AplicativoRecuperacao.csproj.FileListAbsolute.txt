@@ -1,0 +1,15 @@
+C:\Programas\AplicativoSenai\bin\Debug\DBDados.mdf
+C:\Programas\AplicativoSenai\bin\Debug\DBDados_log.ldf
+C:\Programas\AplicativoSenai\bin\Debug\CadastrosBeta.exe.config
+C:\Programas\AplicativoSenai\bin\Debug\CadastrosBeta.exe
+C:\Programas\AplicativoSenai\bin\Debug\CadastrosBeta.pdb
+C:\Programas\AplicativoSenai\obj\Debug\CadastrosBeta.FrmCliente.resources
+C:\Programas\AplicativoSenai\obj\Debug\CadastrosBeta.FrmPrincipal.resources
+C:\Programas\AplicativoSenai\obj\Debug\CadastrosBeta.FrmProduto.resources
+C:\Programas\AplicativoSenai\obj\Debug\CadastrosBeta.FrmSplashScreen.resources
+C:\Programas\AplicativoSenai\obj\Debug\CadastrosBeta.Properties.Resources.resources
+C:\Programas\AplicativoSenai\obj\Debug\AplicativoRecuperacao.csproj.GenerateResource.cache
+C:\Programas\AplicativoSenai\obj\Debug\AplicativoRecuperacao.csproj.CoreCompileInputs.cache
+C:\Programas\AplicativoSenai\obj\Debug\CadastrosBeta.exe
+C:\Programas\AplicativoSenai\obj\Debug\CadastrosBeta.pdb
+C:\Programas\AplicativoSenai\obj\Debug\AplicativoRecuperacao.csprojAssemblyReference.cache
